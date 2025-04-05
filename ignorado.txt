@@ -1,0 +1,8 @@
+
+gitignore regla/s para ignorar un archivo:
+-Crear un archivo de texto llamado .gitignore.
+-En cada línea, indicar el archivo, directorio o patrón a ignorar.
+-Usar * como carácter comodín.
+-Usar / para ignorar las rutas relativas al archivo .gitignore.
+-Usar ! para realizar excepciones (niegar el patrón).
+-Agregar el archivo .gitignore al repositorio.
